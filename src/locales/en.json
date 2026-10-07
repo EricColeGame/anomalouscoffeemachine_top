@@ -37,27 +37,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Anomalous Coffee Machine Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core loop first: read the scene, choose deliberately, and watch how the machine answers your very first cups."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Words",
+          "description": "Build your word list and learn how Anomalous Coffee Machine reads single words, flavors, and short two-word combinations."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Transformations",
+          "description": "Track how each brew reshapes the mysterious girl and which ingredient orders trigger the biggest visible changes."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "All Endings",
+          "description": "Map every route, from calm and warm outcomes to abrupt failures and the hidden endings most players never see."
         }
       ]
     },
@@ -65,265 +65,343 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "All Words",
+        "Transformations",
+        "Endings",
+        "Secret Words"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn the core loop, brew your first cups, and avoid the mistakes that stall a first run.",
+          "href": "/guide/anomalous-coffee-machine-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Words",
+          "description": "How the machine reads single words, flavors, and short two-word combinations.",
+          "href": "/guide/anomalous-coffee-machine-all-words"
+        },
+        {
+          "badge": "Popular",
+          "title": "Transformations",
+          "description": "Track how each brew reshapes the girl and which orders trigger the biggest changes.",
+          "href": "/mechanics/anomalous-coffee-machine-transformations"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "All Endings",
+          "description": "Every route and outcome, from calm and warm scenes to abrupt failures and hidden endings.",
+          "href": "/mechanics/anomalous-coffee-machine-endings"
+        },
+        {
+          "badge": "New",
+          "title": "Secret Words",
+          "description": "Hidden inputs that unlock secret drinks, scenes, and alternate endings.",
+          "href": "/items/anomalous-coffee-machine-secret-words"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Unlock Code",
+          "description": "How unlocking really works and how to reach every ending faster.",
+          "href": "/codes/anomalous-coffee-machine-unlock-code"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Drinks",
+          "description": "Top brews, their effects, and the story routes worth chasing.",
+          "href": "/items/anomalous-coffee-machine-best-drinks"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Characters",
+          "description": "Meet the mysterious girl, the barista, and the machine itself.",
+          "href": "/characters/anomalous-coffee-machine-character"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Updates",
+          "description": "Track patches, new recipes, and content changes as they ship.",
+          "href": "/progression/anomalous-coffee-machine-update"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Anomalous Coffee Machine?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Anomalous Coffee Machine is a short indie visual novel with interactive simulation elements, developed by HoruBrain and distributed through itch.io. You stand behind the counter, serve a mysterious girl, and discover that every word you type or ingredient you pour changes how she reacts — and which ending you reach.",
+        "The machine ignores normal cafe rules: it reads language instead of a fixed menu, and it rewards observation far more than speed. Across 700+ words, 600+ transformations, and 200+ animated scenes, every run is a short, repeatable vignette built for curious players who want to see every strange outcome."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "HoruBrain"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "itch.io"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Visual Novel"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Words",
+          "value": "700+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Transformations",
+          "value": "600+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Animated Scenes",
+          "value": "200+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Anomalous Coffee Machine Wiki",
+      "description": "Master HoruBrain's strange coffee-machine visual novel with guides on words, transformations, endings, secret inputs, updates, and where to play.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Anomalous Coffee Machine Words",
+          "description": "Understand the keywords you can type into the machine and the drinks, effects, and reactions each family of words can trigger.",
+          "href": "/guide/anomalous-coffee-machine-all-words",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Beverages",
+              "detail": "Coffee and drink terms are the most reliably recognized inputs."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Flavors",
+              "detail": "Sweet, bitter, and spicy words reshape the drink and the mood."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Emotions",
+              "detail": "Feeling words steer the girl toward introspective dialogue."
+            },
+            {
+              "label": "Weather",
+              "detail": "Season and storm words unlock atmospheric scene variations."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Anomalous Coffee Machine Guide",
+          "description": "Follow the full gameplay loop step by step, from starting a fresh file and reading the opening scene to brewing cups and restarting for new branches.",
+          "href": "/guide/anomalous-coffee-machine-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Start a fresh file so you can see exactly what changes on each run."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Read the opening scene in full; the first lines often hide a hint."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Pick your response deliberately instead of clicking straight through."
+            },
+            {
+              "label": "4",
+              "detail": "Watch her reaction — pauses and tone shifts are the real feedback."
+            },
+            {
+              "label": "5",
+              "detail": "Brew at the machine and note anything that feels slightly off."
+            },
+            {
+              "label": "6",
+              "detail": "Finish the run, then restart; the second pass is where it opens up."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Anomalous Coffee Machine Transformations",
+          "description": "See how each brew changes the girl, which ingredient orders matter most, and how the community ranks every type of transformation.",
+          "href": "/items/anomalous-coffee-machine-best-transformations",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Layered outcomes that build on a previous state and feel like a hidden path."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Dramatic physical shifts with the biggest visual payoff and the easiest confirmation."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Subtle personality changes that reward reading the writing closely."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Callbacks to earlier states that reward keeping one long-running save."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Anomalous Coffee Machine Scenes",
+          "description": "Catalog the special scenes and outcomes the machine can produce, and learn which choices steer a run toward each family of endings.",
+          "href": "/mechanics/anomalous-coffee-machine-endings",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Calm",
+              "detail": "Keep the anomaly low and respond politely for quiet, character-focused scenes."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Warm",
+              "detail": "Build trust across several visits to reach the warmer connection scenes."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Escalate",
+              "detail": "Stack unusual ingredients quickly to push the scene toward surreal outcomes."
+            },
+            {
+              "label": "Hidden",
+              "detail": "Meet obscure conditions across runs to reveal the secret scenes."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Anomalous Coffee Machine Achievements",
+          "description": "Track your gallery and completion goals, and learn how unlocking endings and scenes works so you can finish everything the game hides.",
+          "href": "/codes/anomalous-coffee-machine-unlock-code",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Gallery",
+              "detail": "Unlocking a new scene fills a gallery slot and raises your completion count."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Routes",
+              "detail": "Every ending you reach counts as progress, even the abrupt failures."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Log",
+              "detail": "Keep a simple ending log so you know which branches are still missing."
+            },
+            {
+              "label": "Replay",
+              "detail": "Short runs and two save slots make full completion far faster."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Anomalous Coffee Machine Updates",
+          "description": "Follow each patch and content drop, including new words, transformations, scenes, and fixes, and learn what to re-test after an update.",
+          "href": "/progression/anomalous-coffee-machine-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Patches",
+              "detail": "Each update can add new drink combinations and dialogue branches."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Recipes",
+              "detail": "Re-test solved combos after a patch; they may now produce new reactions."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Endings",
+              "detail": "New endings and scenes raise the total completion count."
+            },
+            {
+              "label": "Gallery",
+              "detail": "Compare your gallery before and after to spot exactly what changed."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Anomalous Coffee Machine Secrets",
+          "description": "Dig into hidden inputs, special interactions, and easter eggs that reward players who already know the basic brewing loop.",
+          "href": "/items/anomalous-coffee-machine-secret-words",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Slang",
+              "detail": "Beverage and barista slang unlocks flavor variations and shop-talk reactions."
+            },
+            {
+              "label": "Moods",
+              "detail": "Emotion words trigger introspective dialogue and tone changes."
+            },
+            {
+              "label": "Titles",
+              "detail": "Names and honorifics produce recognition lines and running jokes."
+            },
+            {
+              "label": "Meta",
+              "detail": "Self-referential phrases hide easter eggs aimed at repeat players."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Anomalous Coffee Machine Videos",
+          "description": "Watch the official trailer, gameplay clips, and developer videos that show the brewing loop and visual style in motion before you play.",
+          "href": "/platforms/anomalous-coffee-machine-itch",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Start with the official trailer on the developer's Anomalous Coffee Machine page."
+            },
+            {
+              "label": "Devlog",
+              "detail": "Developer devlog posts show new words, scenes, and fixes as they ship."
+            },
+            {
+              "label": "Gameplay",
+              "detail": "Watch a full first run to see the brew loop and reactions in motion."
+            },
+            {
+              "label": "Clips",
+              "detail": "Short community clips highlight the strangest outcomes the machine can produce."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Anomalous Coffee Machine FAQ",
+      "description": "Quick answers to the most common questions about Anomalous Coffee Machine.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Anomalous Coffee Machine?",
+          "answer": "Anomalous Coffee Machine is a short indie visual novel with interactive simulation elements by HoruBrain. You serve a mysterious girl, type words and ingredients into an unusual machine, and watch each choice change her reaction and the ending you reach."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Where can I play Anomalous Coffee Machine?",
+          "answer": "Anomalous Coffee Machine is distributed through the developer's official itch.io page, where you can play the current build in a browser or download it for desktop."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do you play Anomalous Coffee Machine?",
+          "answer": "Anomalous Coffee Machine plays as a short, repeatable loop: read the scene, choose a response, brew a cup, and watch the girl react. Observation matters far more than reflexes, so slow the text speed and pay attention to pauses and tone shifts."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many words and transformations does Anomalous Coffee Machine have?",
+          "answer": "Anomalous Coffee Machine currently lists 700+ words, 600+ transformations, 200+ animated scenes, and 100,000+ dialogue words, so there is far more to discover than a single playthrough reveals."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I unlock every ending in Anomalous Coffee Machine?",
+          "answer": "Anomalous Coffee Machine fills your gallery as you play, so keep at least two save slots, re-test combos after each update, and treat every ending — including the abrupt failures — as a step toward full completion."
+        },
+        {
+          "question": "Does Anomalous Coffee Machine get updates?",
+          "answer": "Yes. Anomalous Coffee Machine receives content updates that add new drink combinations, dialogue branches, endings, and gallery slots, so re-check solved recipes and early scenes after each patch."
         }
       ]
     },

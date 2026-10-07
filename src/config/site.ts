@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Words, Transformations, Endings & Secrets Guide",
   description: "Your ultimate guide to Anomalous Coffee Machine! Explore keyword lists, transformations, endings, secrets, characters, and gameplay tips for every strange cup.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://anomalouscoffeemachine.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://anomalouscoffeemachine.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@anomalouscoffeemachine.top",
   gameUrl: "https://store.steampowered.com/app/3173560/Anomalous_Coffee_Machine/",
   heroVideoId: "8Kpy8NXgh38", // Anomalous Coffee Machine - Gameplay
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://steamcommunity.com/app/3173560",
+    youtube: "https://www.youtube.com/watch?v=8Kpy8NXgh38",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

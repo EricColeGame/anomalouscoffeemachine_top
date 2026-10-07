@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Anomalous Coffee Machine Wiki",
+    "shortName": "ACM Wiki",
+    "tagline": "Words, Transformations, Endings & Secrets Guide",
+    "description": "Your ultimate guide to Anomalous Coffee Machine! Explore keyword lists, transformations, endings, secrets, characters, and gameplay tips for every strange cup.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Anomalous Coffee Machine Wiki - Words & Transformations",
+      "description": "Explore Anomalous Coffee Machine with keyword lists, transformations, endings, guides, secrets, characters, updates, and gameplay tips for every strange cup."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Anomalous Visual Novel Simulator",
+      "title": "Anomalous Coffee Machine Wiki",
+      "description": "Explore a mysterious coffee machine where every keyword can create bizarre drinks, transformations, secrets, events, and unexpected outcomes.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "700+ Words",
+        "600+ Transformations",
+        "200+ Animated Scenes",
+        "100K+ Dialogue Words"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Words & Transformations",
+      "tertiaryCta": "Play on Steam",
+      "videoLabel": "Official gameplay"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master the Anomalous Coffee Machine?",
+      "description": "From your first strange cup to secret endings and hidden transformations, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Anomalous Coffee Machine Wiki",
+    "about": "Anomalous Coffee Machine Wiki is an independent fan-built guide hub covering keywords, transformations, endings, secrets, characters, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Anomalous Coffee Machine Wiki. Not affiliated with HoruBrain.",
+    "description": "Adult visual novel coffee-machine simulator by HoruBrain. 700+ words, 600+ transformations.",
+    "playGame": "Play on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Gameplay Video",
+    "vvBuilder": "Official Website",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

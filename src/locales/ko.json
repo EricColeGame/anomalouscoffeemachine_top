@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Anomalous Coffee Machine Wiki",
+    "shortName": "ACM Wiki",
+    "tagline": "단어·변신·엔딩·비밀 가이드",
+    "description": "Anomalous Coffee Machine의 궁극 가이드! 키워드 목록, 변신, 엔딩, 비밀, 캐릭터, 그리고 모든 기묘한 한 잔을 위한 공략 정보를 소개합니다.",
+    "legalNotice": "비공식 팬 위키. 플레이어가 만들고 플레이어를 위한 사이트입니다."
+  },
+  "nav": {
+    "toggleTheme": "테마 전환",
+    "menu": "메뉴",
+    "guide": "가이드",
+    "mechanics": "메커니즘",
+    "characters": "캐릭터",
+    "items": "아이템",
+    "codes": "코드",
+    "platforms": "플랫폼",
+    "progression": "진행"
+  },
+  "home": {
+    "meta": {
+      "title": "Anomalous Coffee Machine Wiki - 단어와 변신",
+      "description": "키워드 목록, 변신, 엔딩, 가이드, 비밀, 캐릭터, 업데이트, 모든 기묘한 한 잔을 위한 공략 정보로 Anomalous Coffee Machine을 탐험하세요."
+    },
+    "hero": {
+      "eyebrow": "아노말러스 비주얼 노벨 시뮬레이터",
+      "title": "Anomalous Coffee Machine Wiki",
+      "description": "모든 키워드가 기묘한 음료, 변신, 비밀, 이벤트, 예상치 못한 결말을 만들어내는 수수께끼의 커피 머신을 탐험하세요.",
+      "stats": [
+        "700+ 단어",
+        "600+ 변신",
+        "200+ 애니메이션 장면",
+        "10만+ 대사 단어"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "단어와 변신",
+      "tertiaryCta": "Steam에서 플레이",
+      "videoLabel": "공식 게임플레이"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "Anomalous Coffee Machine 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "먼저 핵심 루프를 익히세요. 장면을 읽고, 의도적으로 선택하고, 첫 잔에 머신이 어떻게 반응하는지 관찰하세요."
+        },
+        {
+          "number": "2",
+          "title": "모든 단어",
+          "description": "단어 목록을 만들고 Anomalous Coffee Machine이 단어, 풍미, 두 단어 조합을 어떻게 읽는지 배우세요."
+        },
+        {
+          "number": "3",
+          "title": "변신",
+          "description": "각 추출이 수수께끼의 소녀를 어떻게 바꾸는지, 어떤 재료 순서가 가장 큰 변화를 일으키는지 추적하세요."
+        },
+        {
+          "number": "4",
+          "title": "모든 엔딩",
+          "description": "차분하고 따뜻한 결말부터 갑작스러운 실패, 대부분의 플레이어가 보지 못하는 숨겨진 엔딩까지 모든 루트를 정리하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 페이지",
+      "quickLinks": [
+        "모든 단어",
+        "변신",
+        "엔딩",
+        "비밀 단어"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "핵심 루프를 익히고 첫 잔을 내리며, 첫 플레이를 막는 실수를 피하세요.",
+          "href": "/guide/anomalous-coffee-machine-beginner-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "모든 단어",
+          "description": "머신이 단어, 풍미, 두 단어 조합을 어떻게 읽는지.",
+          "href": "/guide/anomalous-coffee-machine-all-words"
+        },
+        {
+          "badge": "인기",
+          "title": "변신",
+          "description": "각 추출이 소녀를 어떻게 바꾸는지, 어떤 주문이 가장 큰 변화를 일으키는지 추적하세요.",
+          "href": "/mechanics/anomalous-coffee-machine-transformations"
+        },
+        {
+          "badge": "업데이트",
+          "title": "모든 엔딩",
+          "description": "차분하고 따뜻한 장면부터 갑작스러운 실패와 숨겨진 엔딩까지 모든 루트와 결말.",
+          "href": "/mechanics/anomalous-coffee-machine-endings"
+        },
+        {
+          "badge": "신규",
+          "title": "비밀 단어",
+          "description": "비밀 음료, 장면, 대체 엔딩을 해금하는 숨겨진 입력.",
+          "href": "/items/anomalous-coffee-machine-secret-words"
+        },
+        {
+          "badge": "업데이트",
+          "title": "해금 코드",
+          "description": "해금이 실제로 작동하는 방식과 모든 엔딩에 더 빨리 도달하는 방법.",
+          "href": "/codes/anomalous-coffee-machine-unlock-code"
+        },
+        {
+          "badge": "인기",
+          "title": "베스트 음료",
+          "description": "최고의 추출, 그 효과, 그리고 추구할 가치가 있는 스토리 루트.",
+          "href": "/items/anomalous-coffee-machine-best-drinks"
+        },
+        {
+          "badge": "인기",
+          "title": "캐릭터",
+          "description": "수수께끼의 소녀, 바리스타, 그리고 머신 그 자체를 만나보세요.",
+          "href": "/characters/anomalous-coffee-machine-character"
+        },
+        {
+          "badge": "신규",
+          "title": "업데이트",
+          "description": "배포되는 패치, 새로운 레시피, 콘텐츠 변경을 추적하세요.",
+          "href": "/progression/anomalous-coffee-machine-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Anomalous Coffee Machine이란?",
+      "paragraphs": [
+        "Anomalous Coffee Machine은 HoruBrain이 개발하고 itch.io를 통해 배포하는, 인터랙티브 시뮬레이션 요소를 갖춘 짧은 인디 비주얼 노벨입니다. 카운터 뒤에 서서 수수께끼의 소녀를 응대하고, 입력하는 단어나 붓는 재료 하나하나가 그녀의 반응과 도달하는 엔딩을 바꾼다는 것을 알게 됩니다.",
+        "이 머신은 평범한 카페 규칙을 무시합니다. 고정 메뉴 대신 언어를 읽고, 속도보다 관찰을 훨씬 중시합니다. 700+ 단어, 600+ 변신, 200+ 애니메이션 장면에 걸쳐 각 플레이는 짧고 반복 가능한 소품으로, 모든 기묘한 결말을 보고 싶은 호기심 많은 플레이어를 위해 만들어졌습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "HoruBrain"
+        },
+        {
+          "label": "플랫폼",
+          "value": "itch.io"
+        },
+        {
+          "label": "장르",
+          "value": "비주얼 노벨"
+        },
+        {
+          "label": "단어",
+          "value": "700+"
+        },
+        {
+          "label": "변신",
+          "value": "600+"
+        },
+        {
+          "label": "애니메이션 장면",
+          "value": "200+"
+        }
+      ],
+      "cta": "모든 가이드 보기"
+    },
+    "explore": {
+      "title": "Anomalous Coffee Machine Wiki 탐험",
+      "description": "단어, 변신, 엔딩, 비밀 입력, 업데이트, 플레이 방법 가이드로 HoruBrain의 기묘한 커피 머신 비주얼 노벨을 마스터하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Anomalous Coffee Machine 단어",
+          "description": "머신에 입력할 수 있는 키워드와 각 단어 계열이 일으키는 음료, 효과, 반응을 이해하세요.",
+          "href": "/guide/anomalous-coffee-machine-all-words",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "음료",
+              "detail": "커피와 음료 용어는 가장 확실하게 인식되는 입력입니다."
+            },
+            {
+              "label": "풍미",
+              "detail": "달콤함, 쓴맛, 매운맛 단어는 음료와 분위기를 바꿉니다."
+            },
+            {
+              "label": "감정",
+              "detail": "감정 단어는 소녀를 내성적인 대화로 이끕니다."
+            },
+            {
+              "label": "날씨",
+              "detail": "계절과 폭풍 단어는 분위기 있는 장면 변화를 해금합니다."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Anomalous Coffee Machine 가이드",
+          "description": "새 파일 시작과 오프닝 장면 읽기부터 추출, 새 분기를 위한 재시작까지 게임플레이 루프를 단계별로 따라갑니다.",
+          "href": "/guide/anomalous-coffee-machine-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "새 파일로 시작하면 각 플레이에서 무엇이 바뀌는지 정확히 알 수 있습니다."
+            },
+            {
+              "label": "2",
+              "detail": "오프닝 장면을 끝까지 읽으세요. 첫 줄에 힌트가 숨어 있는 경우가 많습니다."
+            },
+            {
+              "label": "3",
+              "detail": "클릭으로 넘기지 말고 의도적으로 응답을 고르세요."
+            },
+            {
+              "label": "4",
+              "detail": "그녀의 반응을 관찰하세요. 멈춤과 어조 변화가 진짜 피드백입니다."
+            },
+            {
+              "label": "5",
+              "detail": "머신에서 추출하고 조금이라도 이상한 점을 기록하세요."
+            },
+            {
+              "label": "6",
+              "detail": "한 번의 플레이를 마치고 재시작하세요. 2회차에서 확 열립니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Anomalous Coffee Machine 변신",
+          "description": "각 추출이 소녀를 어떻게 바꾸는지, 어떤 재료 순서가 가장 중요한지, 커뮤니티가 각 변신을 어떻게 평가하는지 확인하세요.",
+          "href": "/items/anomalous-coffee-machine-best-transformations",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "이전 상태 위에 쌓이는, 숨겨진 경로 같은 다층적 결과."
+            },
+            {
+              "label": "A",
+              "detail": "가장 큰 시각적 보상과 가장 확인하기 쉬운 극적인 신체 변화."
+            },
+            {
+              "label": "B",
+              "detail": "글을 주의 깊게 읽어야 보상받는 미묘한 성격 변화."
+            },
+            {
+              "label": "C",
+              "detail": "하나의 장기 세이브를 유지해야 보상받는 이전 상태로의 회귀."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Anomalous Coffee Machine 장면",
+          "description": "머신이 만들어낼 수 있는 특별한 장면과 결말을 정리하고, 어떤 선택이 각 엔딩 계열로 이끄는지 배우세요.",
+          "href": "/mechanics/anomalous-coffee-machine-endings",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "차분",
+              "detail": "이상도를 낮게 유지하고 정중하게 응답해 조용한 캐릭터 중심 장면으로."
+            },
+            {
+              "label": "따뜻함",
+              "detail": "여러 번의 방문으로 신뢰를 쌓아 더 따뜻한 유대 장면으로."
+            },
+            {
+              "label": "에스컬레이션",
+              "detail": "특이한 재료를 빠르게 쌓아 장면을 초현실적 결말로 밀어붙입니다."
+            },
+            {
+              "label": "숨김",
+              "detail": "여러 플레이에서 모호한 조건을 충족해 비밀 장면을 드러냅니다."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Anomalous Coffee Machine 업적",
+          "description": "갤러리와 완성 목표를 추적하고 엔딩과 장면 해금 방법을 배워 게임이 숨긴 모든 것을 완료하세요.",
+          "href": "/codes/anomalous-coffee-machine-unlock-code",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "갤러리",
+              "detail": "새 장면을 해금하면 갤러리 슬롯이 채워지고 완성도가 올라갑니다."
+            },
+            {
+              "label": "루트",
+              "detail": "도달한 모든 엔딩이 진행으로 집계되며 갑작스러운 실패도 포함됩니다."
+            },
+            {
+              "label": "로그",
+              "detail": "간단한 엔딩 로그를 남겨 어떤 분기가 아직 남았는지 파악하세요."
+            },
+            {
+              "label": "리플레이",
+              "detail": "짧은 플레이와 두 개의 세이브 슬롯이 완성을 훨씬 빠르게 만듭니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Anomalous Coffee Machine 업데이트",
+          "description": "새 단어, 변신, 장면, 수정을 포함한 각 패치와 콘텐츠 추가를 따라가고 업데이트 후 무엇을 재검증할지 배우세요.",
+          "href": "/progression/anomalous-coffee-machine-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "패치",
+              "detail": "각 업데이트는 새로운 음료 조합과 대화 분기를 추가할 수 있습니다."
+            },
+            {
+              "label": "레시피",
+              "detail": "패치 후 해결된 조합을 재검증하세요. 새로운 반응이 나올 수 있습니다."
+            },
+            {
+              "label": "엔딩",
+              "detail": "새 엔딩과 장면은 총 완성 수를 높입니다."
+            },
+            {
+              "label": "갤러리",
+              "detail": "전후 갤러리를 비교해 무엇이 바뀌었는지 정확히 파악하세요."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Anomalous Coffee Machine 비밀",
+          "description": "기본 추출 루프를 이미 아는 플레이어에게 보상하는 숨겨진 입력, 특별한 상호작용, 이스터에그를 파헤치세요.",
+          "href": "/items/anomalous-coffee-machine-secret-words",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "은어",
+              "detail": "음료와 바리스타 은어가 풍미 변화와 가게 대화 반응을 해금합니다."
+            },
+            {
+              "label": "기분",
+              "detail": "감정 단어가 내성적 대화와 어조 변화를 일으킵니다."
+            },
+            {
+              "label": "호칭",
+              "detail": "이름과 경칭이 인식 대사와 반복 개그를 만들어냅니다."
+            },
+            {
+              "label": "메타",
+              "detail": "자기 언급적 표현이 반복 플레이어를 겨냥한 이스터에그를 숨깁니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Anomalous Coffee Machine 영상",
+          "description": "플레이 전에 추출 루프와 비주얼 스타일을 움직임으로 보여주는 공식 트레일러, 게임플레이 클립, 개발자 영상을 시청하세요.",
+          "href": "/platforms/anomalous-coffee-machine-itch",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "트레일러",
+              "detail": "개발자의 Anomalous Coffee Machine 페이지에 있는 공식 트레일러부터 시작하세요."
+            },
+            {
+              "label": "개발 일지",
+              "detail": "개발자 개발 일지 게시물은 출시되는 새 단어, 장면, 수정을 보여줍니다."
+            },
+            {
+              "label": "게임플레이",
+              "detail": "첫 1회차를 보며 추출 루프와 반응을 움직임으로 확인하세요."
+            },
+            {
+              "label": "클립",
+              "detail": "짧은 커뮤니티 클립이 머신이 만들어내는 가장 기묘한 결말을 강조합니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Anomalous Coffee Machine FAQ",
+      "description": "Anomalous Coffee Machine에 관한 자주 묻는 질문에 대한 간단한 답변.",
+      "items": [
+        {
+          "question": "Anomalous Coffee Machine이란 무엇인가요?",
+          "answer": "Anomalous Coffee Machine은 HoruBrain이 만든 인터랙티브 시뮬레이션 요소를 갖춘 짧은 인디 비주얼 노벨입니다. 수수께끼의 소녀를 응대하고, 특이한 머신에 단어와 재료를 입력하며, 각 선택이 그녀의 반응과 도달하는 엔딩을 바꾸는 모습을 지켜봅니다."
+        },
+        {
+          "question": "Anomalous Coffee Machine은 어디서 플레이할 수 있나요?",
+          "answer": "Anomalous Coffee Machine은 개발자의 공식 itch.io 페이지를 통해 배포되며, 현재 빌드를 브라우저에서 플레이하거나 데스크톱용으로 다운로드할 수 있습니다."
+        },
+        {
+          "question": "Anomalous Coffee Machine은 어떻게 플레이하나요?",
+          "answer": "Anomalous Coffee Machine은 장면을 읽고, 응답을 고르고, 한 잔을 내리고, 소녀의 반응을 보는 짧고 반복 가능한 루프로 진행됩니다. 반사 신경보다 관찰이 훨씬 중요하므로 텍스트 속도를 늦추고 멈춤과 어조 변화에 주의하세요."
+        },
+        {
+          "question": "Anomalous Coffee Machine에는 단어와 변신이 얼마나 있나요?",
+          "answer": "Anomalous Coffee Machine은 현재 700+ 단어, 600+ 변신, 200+ 애니메이션 장면, 10만+ 대사 단어를 갖추고 있어 한 번의 플레이로는 밝혀지지 않는 훨씬 많은 발견이 있습니다."
+        },
+        {
+          "question": "Anomalous Coffee Machine의 모든 엔딩을 해금하려면?",
+          "answer": "Anomalous Coffee Machine은 플레이하면서 갤러리가 채워지므로 최소 두 개의 세이브 슬롯을 유지하고, 각 업데이트 후 조합을 재검증하며, 갑작스러운 실패를 포함한 모든 엔딩을 완성으로 가는 한 걸음으로 여기세요."
+        },
+        {
+          "question": "Anomalous Coffee Machine은 업데이트되나요?",
+          "answer": "네. Anomalous Coffee Machine은 새로운 음료 조합, 대화 분기, 엔딩, 갤러리 슬롯을 추가하는 콘텐츠 업데이트를 받으므로 각 패치 후 해결된 레시피와 초반 장면을 다시 확인하세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Anomalous Coffee Machine을 마스터할 준비가 되셨나요?",
+      "description": "첫 기묘한 한 잔부터 비밀 엔딩과 숨겨진 변신까지, 저희 커뮤니티 위키가 무료 최신 가이드로 도와드립니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Anomalous Coffee Machine 가이드",
+    "overviewDescription": "플레이 방법, 초보자 팁, 정답표, 모든 기묘한 한 잔을 위한 완전한 단어 목록을 다루는 단계별 Anomalous Coffee Machine 가이드."
+  },
+  "mechanics": {
+    "overviewTitle": "Anomalous Coffee Machine 메커니즘",
+    "overviewDescription": "Anomalous Coffee Machine의 작동 방식을 설명합니다. 변신, 음료, 형태, 엔딩, 죽음 결말을 실제 단어와 아이템 이름과 함께 다룹니다."
+  },
+  "characters": {
+    "overviewTitle": "Anomalous Coffee Machine 캐릭터",
+    "overviewDescription": "Horu와 그 대체 형태부터 캐릭터 이름 목록, 플레이어들이 묻는 얀데레와 요르 포저 언급까지 Anomalous Coffee Machine의 등장인물을 소개합니다."
+  },
+  "items": {
+    "overviewTitle": "Anomalous Coffee Machine 아이템",
+    "overviewDescription": "Anomalous Coffee Machine의 베스트 음료, 베스트 컵, 비밀 단어, 변신 추천, 그리고 러브 포션과 기타 특별 아이템을 섞는 방법."
+  },
+  "codes": {
+    "overviewTitle": "Anomalous Coffee Machine 코드",
+    "overviewDescription": "최신 Anomalous Coffee Machine 해금 코드, 각 코드가 주는 것, Steam과 itch.io에서 사용하는 방법."
+  },
+  "platforms": {
+    "overviewTitle": "Anomalous Coffee Machine 플랫폼",
+    "overviewDescription": "Anomalous Coffee Machine을 플레이할 수 있는 곳: Steam, itch.io, Android, 모바일, 브라우저, 온라인 옵션과 안전한 다운로드 링크 및 버전 정보."
+  },
+  "progression": {
+    "overviewTitle": "Anomalous Coffee Machine 진행",
+    "overviewDescription": "Anomalous Coffee Machine 업데이트와 챕터를 추적하고, 버전 2와 3의 새로운 점, 최신 버전이 스토리에 무엇을 더하는지 소개합니다."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능한 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 글",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "Anomalous Coffee Machine Wiki",
+    "about": "Anomalous Coffee Machine Wiki는 키워드, 변신, 엔딩, 비밀, 캐릭터, 그리고 신규와 베테랑 플레이어 모두에게 유용한 필수 게임 지식을 다루는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Anomalous Coffee Machine Wiki. HoruBrain과 무관합니다.",
+    "description": "HoruBrain의 성인 비주얼 노벨 커피 머신 시뮬레이터. 700+ 단어, 600+ 변신.",
+    "playGame": "Steam에서 플레이",
+    "officialDiscord": "Steam 커뮤니티",
+    "officialYoutube": "게임플레이 영상",
+    "vvBuilder": "공식 웹사이트",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관",
+    "guideLink": "가이드",
+    "mechanicsLink": "변신과 엔딩",
+    "charactersLink": "캐릭터",
+    "codesLink": "코드"
+  }
+}

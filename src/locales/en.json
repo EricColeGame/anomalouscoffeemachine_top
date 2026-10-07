@@ -8,7 +8,14 @@
   },
   "nav": {
     "toggleTheme": "Toggle theme",
-    "menu": "Menu"
+    "menu": "Menu",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "items": "Items",
+    "codes": "Codes",
+    "platforms": "Platforms",
+    "progression": "Progression"
   },
   "home": {
     "meta": {
@@ -412,7 +419,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Anomalous Coffee Machine Guides",
+    "overviewDescription": "Step-by-step Anomalous Coffee Machine guides covering how to play, beginner tips, the answer key, and the complete word list for every strange cup."
+  },
+  "mechanics": {
+    "overviewTitle": "Anomalous Coffee Machine Mechanics",
+    "overviewDescription": "How the Anomalous Coffee Machine actually works: transformations, drinks, forms, endings, and death outcomes explained with real word and item names."
+  },
+  "characters": {
+    "overviewTitle": "Anomalous Coffee Machine Characters",
+    "overviewDescription": "Meet the Anomalous Coffee Machine cast, from Horu and her alternate forms to the character name list and the Yandere and Yor Forger references players ask about."
+  },
+  "items": {
+    "overviewTitle": "Anomalous Coffee Machine Items",
+    "overviewDescription": "Best drinks, best cups, secret words, and transformation picks in Anomalous Coffee Machine, plus how to mix the love potion and other special items."
+  },
+  "codes": {
+    "overviewTitle": "Anomalous Coffee Machine Codes",
+    "overviewDescription": "The latest Anomalous Coffee Machine unlock codes, what each one grants, and how to redeem them on Steam and itch.io."
+  },
+  "platforms": {
+    "overviewTitle": "Anomalous Coffee Machine Platforms",
+    "overviewDescription": "Where to play Anomalous Coffee Machine: Steam, itch.io, Android, mobile, browser, and online options, plus safe download links and version notes."
+  },
+  "progression": {
+    "overviewTitle": "Anomalous Coffee Machine Progression",
+    "overviewDescription": "Track Anomalous Coffee Machine updates and chapters, including what is new in versions 2 and 3 and what the latest version adds to the story."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -442,11 +476,11 @@
     "officialDiscord": "Steam Community",
     "officialYoutube": "Gameplay Video",
     "vvBuilder": "Official Website",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "guideLink": "Guides",
+    "mechanicsLink": "Transformations & Endings",
+    "charactersLink": "Characters",
+    "codesLink": "Codes"
   }
 }

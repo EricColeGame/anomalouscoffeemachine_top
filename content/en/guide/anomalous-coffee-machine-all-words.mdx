@@ -1,0 +1,157 @@
+export const metadata = {
+  title: "Anomalous Coffee Machine All Words Guide: Every Drink You Can Brew",
+  description: "A complete player-friendly guide to the Anomalous Coffee Machine all words system — how input words work, testing tips, and how to find new drinks.",
+  category: "guide",
+  date: "2026-10-07",
+}
+
+Brewing a drink with a single word sounds simple until the machine starts answering back. The **Anomalous Coffee Machine all words** system is the heart of HoruBrain's strange little visual novel, and understanding how it reads your input is the difference between a bland cup and a scene you'll actually remember. If you've been feeding the same three words into the machine and getting nowhere, this guide walks through how the word mechanic works, how to test new entries efficiently, and where the **Anomalous Coffee Machine all words** list really comes from.
+
+## What Is the Anomalous Coffee Machine?
+
+The Anomalous Coffee Machine is a short interactive visual novel and simulation-style game from developer HoruBrain. You sit across from a mysterious girl, operate a coffee machine that clearly doesn't obey normal rules, and serve her whatever you manage to brew. Each cup triggers a reaction, and those reactions are the actual game.
+
+It's less a coffee-making sim and more a conversation engine dressed as one. The machine is the interface; the girl is the content. That structure is exactly why the word you type matters so much — the game is reading your input and answering it, not just playing an animation.
+
+A sequel, Anomalous Coffee Machine 2, follows the same premise with a new setup and, according to community reports, a wider pool of inputs to experiment with.
+
+| Feature | What to Expect |
+|---|---|
+| Developer | HoruBrain |
+| Genre | Interactive visual novel / simulation |
+| Where to play | Published on itch.io (see the [official Anomalous Coffee Machine page on itch.io](https://horubrain.itch.io/anomalous-coffee-machine)) |
+| Core loop | Type a word → brew a drink → watch the reaction |
+| Session length | Short, repeatable runs |
+| Tone | Surreal, playful, occasionally unsettling |
+| Sequel | Anomalous Coffee Machine 2 |
+
+### Why Such a Simple Game Rewards So Much Testing
+
+The entire experience is built on a lookup: you provide a word, the game provides a result. That means the content is only as deep as the number of inputs the developer wrote responses for. Every new word you try is potentially a scene you've never seen. For a game that costs you a few minutes, that's an unusually high return on curiosity.
+
+## How the Word Input System Actually Works
+
+The loop never really changes, which is good news — it means you can optimize it.
+
+| Step | What Happens | What You Control |
+|---|---|---|
+| 1 | You enter a word or short phrase | The input itself |
+| 2 | The machine produces a drink and visual | Nothing |
+| 3 | The girl reacts with dialogue | Nothing |
+| 4 | The scene advances and the machine resets | Whether you continue |
+
+Because only step 1 is under your control, the word you choose is the whole strategy. Players who treat the machine like a search box tend to see far more content than players who treat it like a story they're supposed to "win."
+
+### Recognized vs. Unrecognized Input
+
+Community reports consistently describe two broad outcomes: a tailored response written specifically for that word, and a generic fallback response used when the game doesn't have anything special prepared. Learning to tell them apart is the fastest way to know whether a word is "real."
+
+| Input Type | Typical Outcome | How to Read It |
+|---|---|---|
+| Common, everyday words | Often a standard or safe result | Usually a fallback or basic entry |
+| Thematic words tied to the game's tone | Frequently unique scenes | Worth logging and retrying |
+| Abstract or emotional words | Mixed; sometimes surprising | Player experience varies |
+| Proper nouns and names | Inconsistent | Sometimes unique, often generic |
+| Random gibberish | Almost always fallback | Confirms the fallback behavior |
+| Previously tested words | Can differ across runs | Suggests state or gating matters |
+
+### Why "All Words" Is a Moving Target
+
+There is no official master document. The Anomalous Coffee Machine all words list that circulates online is a community artifact — players pooling notes, comparing screenshots, and arguing about which entries are real. When the developer updates a game or releases a sequel, that pool shifts again. Treat any list you find as a snapshot, not a bible.
+
+## Anomalous Coffee Machine All Words: A Practical Testing Workflow
+
+Randomly hammering the keyboard is fun for about ten minutes and then becomes exhausting. A structured approach gets you further.
+
+| Step | Action | Why It Works |
+|---|---|---|
+| 1 | Pick one category per session (drinks, emotions, objects) | Keeps testing focused and comparable |
+| 2 | Start with the obvious word in that category | Establishes the baseline response |
+| 3 | Move to the weirdest word in that category | Finds the edges of the content pool |
+| 4 | Log every result as you go | Memory is unreliable across sessions |
+| 5 | Retest your best words later | Some outcomes appear to change over time |
+| 6 | Repeat words in the sequel | Word pools don't transfer perfectly |
+
+### Setting Up a Simple Word Log
+
+You don't need fancy software. A four-column table in a notes app does the job, and it turns a scattered experiment into something you can actually build on.
+
+| Word | Category | Result Type | Notes |
+|---|---|---|---|
+| Your input | Drinks / Emotions / Objects | Unique or fallback | Anything odd about the reaction |
+| Your input | Drinks / Emotions / Objects | Unique or fallback | Anything odd about the reaction |
+| Your input | Drinks / Emotions / Objects | Unique or fallback | Anything odd about the reaction |
+
+Once you have twenty or thirty rows, patterns jump out. You'll start seeing which categories the developer invested in and which ones exist only to absorb whatever you throw at them.
+
+## Word Categories Worth Exploring First
+
+If you're building your own Anomalous Coffee Machine all words collection, order matters. Some categories are far more productive than others.
+
+| Category | Why It's Worth Trying | Difficulty |
+|---|---|---|
+| Beverages and coffee terms | Directly on-theme, so most likely to be covered | Low |
+| Foods and flavors | Natural extension of the drink system | Low |
+| Emotions and moods | Fits the visual novel framing | Medium |
+| Weather and nature | Common source of surreal imagery | Medium |
+| Everyday objects | Hits a wide spread of fallbacks and surprises | Medium |
+| Abstract concepts | Highest chance of something strange | High |
+| Names and places | Unpredictable; rarely consistent | High |
+| Gibberish strings | Only useful for confirming fallback behavior | Not useful |
+
+A quick caveat: the examples above describe *categories*, not confirmed outcomes. Specific word-to-drink pairings are best verified in your own copy of the game, since the developer can adjust content between builds.
+
+### The Two-Word Trick
+
+Some players report that short two-word combinations behave differently from single words, producing responses that neither word triggers alone. It's not guaranteed, but it costs nothing to try — and it doubles the size of your testing space without any extra effort.
+
+## Common Mistakes That Waste Brews
+
+Most frustration with this game comes from a handful of avoidable habits.
+
+| Mistake | Better Approach |
+|---|---|
+| Typing full sentences | Stick to single words or short pairs |
+| Assuming a boring result means the game is broken | The machine is designed to respond to everything |
+| Clicking past dialogue quickly | Reactions often contain the hint you need |
+| Only playing one run | Some content appears to be gated behind earlier choices |
+| Copying a list without testing | Word pools differ between the original and the sequel |
+| Ignoring the sequel entirely | It expands the same idea with new material |
+
+## Original vs. Sequel: What Changes
+
+Players who finish the first game often ask whether they should bother with the second. The short answer is yes, but for different reasons than you'd expect.
+
+| Aspect | Anomalous Coffee Machine | Anomalous Coffee Machine 2 |
+|---|---|---|
+| Premise | Serve a mysterious girl from an impossible machine | Same core idea, new framing |
+| Input system | Word-based brewing | Word-based brewing, reportedly expanded |
+| Content pool | The original set of responses | Community reports suggest a larger pool |
+| Best for | Learning the mechanic | Finding content you haven't seen |
+| Play style | Short exploratory runs | Short exploratory runs with more ground to cover |
+
+Neither game asks for a huge time investment, which is part of the appeal. You can play in ten-minute bursts and still make progress on your personal word list.
+
+## Tips From the Community
+
+- **Write down everything.** A word that produced nothing interesting on day one may behave differently after a story beat.
+- **Test in themes, not randomly.** Grouping inputs makes it obvious which categories the developer cared about.
+- **Don't trust a single source.** Cross-check lists from different players; entries get misattributed constantly.
+- **Read the tone of the game.** The machine's humor leans surreal and sometimes dark, so the most interesting responses often come from words that match that mood.
+- **Revisit the machine after finishing a route.** Community reports suggest some responses are unlocked by story progress rather than by the word itself.
+
+## FAQ
+
+**Is there an official Anomalous Coffee Machine all words list?**
+No. There's no developer-published master list. What exists online is a community effort — players comparing results and building shared documents. Treat those documents as helpful starting points rather than complete references.
+
+**How many words does the machine actually accept?**
+There's no confirmed number. Community reports suggest the machine responds to essentially any input, but that many entries return generic fallback text rather than a hand-written scene. The interesting content sits in a smaller subset of words.
+
+**Do words from the first game work in the sequel?**
+Sometimes. There appears to be overlap, but the two games don't share identical content pools. If a word worked in the original, it's worth retrying in the sequel — just don't assume the result will match.
+
+**Is the game free to play?**
+It's published on itch.io, where pricing and availability can change over time. Check the official store page for the current details before you commit.
+
+The takeaway is simple: the Anomalous Coffee Machine all words experience isn't about finding a secret code. It's about treating the machine as a conversation partner, testing deliberately, and keeping notes. Do that, and you'll see far more of what the developer actually wrote.
